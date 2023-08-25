@@ -1,2 +1,3 @@
 # mycollege
-my college website www.sdmp.com
+my college website 
+www.sdmp.com
